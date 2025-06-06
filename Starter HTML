@@ -19,7 +19,7 @@
         <img src="https://via.placeholder.com/300x200" alt="Product 1" class="mb-4 mx-auto rounded">
         <h3 class="font-semibold text-lg">Awesome Gadget</h3>
         <p class="text-sm mb-2">Top-rated tech tool for daily life.</p>
-        <a href="https://www.amazon.com/dp/YOURAFFILIATEID" target="_blank" class="inline-block bg-purple-600 text-white px-4 py-2 rounded hover:bg-purple-700 transition">
+        <a href="https://www.amazon.com/dp/clickaroo93-20" target="_blank" class="inline-block bg-purple-600 text-white px-4 py-2 rounded hover:bg-purple-700 transition">
           Shop on Amazon
         </a>
       </div>
